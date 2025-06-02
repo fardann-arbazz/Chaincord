@@ -40,7 +40,7 @@ Chaincord is a decentralized messaging platform inspired by Discord, built on to
 
 ## 🎮 Demo Preview
 
-> ⚠️ (Insert a live demo link or GIF/screenshot here)
+Comming Soon
 
 ---
 
