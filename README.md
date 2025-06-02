@@ -152,4 +152,4 @@ MIT License © 2025 Fardan Arbaz
 
 Built by a blockchain & fullstack developer who believes in the power of decentralized communities.
 
-> 💬 Want to contribute or chat? Reach out via [Twitter](https://www.instagram.com/frdn.arbzz/)
+> 💬 Want to contribute or chat? Reach out via [Instagram](https://www.instagram.com/frdn.arbzz/)
